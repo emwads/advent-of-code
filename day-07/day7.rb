@@ -65,5 +65,5 @@ class Day7
   end
 end
 
-p Day7.new('test.txt').call.join('')
-p Day7.new('input.txt').call.join('')
+# p Day7.new('test.txt').call.join('')
+# p Day7.new('input.txt').call.join('')

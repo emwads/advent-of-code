@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require 'pry'
+
+require './day-07/day7'
+require './day-07/day7b'
+
+Pry.start

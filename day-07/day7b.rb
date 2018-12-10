@@ -27,13 +27,10 @@ class Day7b
     @available_steps = find_parents
 
     while true
-      p "finished_jobs : #{@finished_jobs}"
-      p "available_steps : #{@available_steps}"
       finish_jobs!
       break if finished_jobs.length == total_steps
       add_jobs!
       @time = @time + 1
-      p @time
     end
 
     @time
@@ -104,4 +101,4 @@ class Day7b
   end
 end
 
-p Day7b.new('input.txt').call
+# p Day7b.new('input.txt').call
