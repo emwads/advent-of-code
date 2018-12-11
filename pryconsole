@@ -4,5 +4,6 @@ require 'pry'
 
 require './day-07/day7'
 require './day-07/day7b'
+require './day-08/day8'
 
 Pry.start
