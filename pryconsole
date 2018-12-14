@@ -6,5 +6,6 @@ require './day-07/day7'
 require './day-07/day7b'
 require './day-08/day8'
 require './day-09/day9b'
+require './day-10/day10'
 
 Pry.start
