@@ -2,10 +2,13 @@
 
 require 'pry'
 
-require './day-07/day7'
-require './day-07/day7b'
-require './day-08/day8'
-require './day-09/day9b'
-require './day-10/day10'
+# require './day-07/day7'
+# require './day-07/day7b'
+# require './day-08/day8'
+# require './day-09/day9b'
+# require './day-10/day10'
+# require './day-11/day11b'
+# require './day-12/day12'
+require './day-13/day13'
 
 Pry.start
